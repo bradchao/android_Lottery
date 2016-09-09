@@ -60,7 +60,6 @@
         android:layout_above="@id/bottomLine"
         android:textSize="32sp"
         android:textStyle="bold|italic"
-        android:textColor="#f00"
         />
 
 </RelativeLayout>
